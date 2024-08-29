@@ -18,10 +18,8 @@ body {
     text-align: left;
   }
 
-  ul {
+  ul,
+  ol {
     margin-left: var(--marginMain);
-    li {
-      list-style-type: none;
-    }
   }
 }
